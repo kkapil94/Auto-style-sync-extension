@@ -3,19 +3,10 @@
 	"displayName": "HTML to CSS autocompletion",
 	"description": "Provides completion suggestions for classes and ids from markup documents to stylesheets.",
 	"version": "1.1.2",
-	"publisher": "solnurkarim",
 	"engines": {
 		"vscode": "^1.25.0"
 	},
 	"license": "SEE LICENSE IN LICENSE.txt",
-	"bugs": {
-		"url": "https://github.com/solnurkarim/HTML-to-CSS-autocompletion/issues",
-		"email": "solnurkarim@gmail.com"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/solnurkarim/HTML-to-CSS-autocompletion.git"
-	},
 	"icon": "assets/logo.png",
 	"categories": [
 		"Programming Languages",
